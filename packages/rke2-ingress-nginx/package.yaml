@@ -1,2 +1,2 @@
-url: https://kubernetes-charts.storage.googleapis.com/nginx-ingress-1.36.3.tgz
-packageVersion: 00
+url: https://github.com/kubernetes/ingress-nginx/releases/download/helm-chart-3.18.0/ingress-nginx-3.18.0.tgz
+packageVersion: 01
